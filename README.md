@@ -39,6 +39,7 @@ This project focuses on creating a simple, accessible, and user-friendly interfa
     |   |--icon-face.png
     |   |--icon-secure.png
     |   |--logo.png
+    |   |--Title-Logo.png
     |   |--workflow.png
     |
     |--UI-UX
@@ -47,10 +48,15 @@ This project focuses on creating a simple, accessible, and user-friendly interfa
     |
     |--camera.html
     |--contact.html
+    |--contactMedia.css
     |--features.html
+    |--featureMedia.css
     |--index.html
+    |--media.css
     |--script.js
     |--style.css
     |--workflow.html
+    |--workflowmedia.css
+    
 </pre>
 
