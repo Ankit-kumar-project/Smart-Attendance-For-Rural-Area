@@ -33,7 +33,7 @@ This project focuses on creating a simple, accessible, and user-friendly interfa
 
     Smart-Attendance-For-Rural-Area
     |
-    |--Assets
+    |--assets
     |   |
     |   |--icon-clock.png
     |   |--icon-face.png
