@@ -1,0 +1,34 @@
+@media screen and (max-width: 600px) {
+  .navbar {
+    width: 98vw;
+    margin: 4px 0px;
+    height: 45px;
+    border-radius: 10px;
+  }
+  .logo {
+    width: 75px;
+    margin-right: 5px;
+  }
+  .nav-links a {
+    font-size: 10px;
+    font-weight: 500;
+  }
+  .contact {
+    padding: 12px 20px;
+  }
+  .contact p {
+    margin-left: 23px;
+  }
+  .contact form {
+    width: 62vw;
+    margin-left: 8vw;
+  }
+  .contact input,
+  .contact textarea {
+    width: 57vw;
+  }
+.contact button {
+    margin-top: 25px;
+    width: 61vw;
+ }
+}
