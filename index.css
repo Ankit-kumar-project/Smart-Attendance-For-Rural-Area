@@ -80,7 +80,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("../Assets/Login-Background.png");
+  background-image: url("./Assets/Login-Background.png");
   object-fit: cover;
   object-position: center;
   overflow-y: auto; /* allows scroll if content taller */
